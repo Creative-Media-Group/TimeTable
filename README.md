@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="logo-files/horizontal.png" width=50%>
+<img src="logo-files/horizontal.png" width=2404 alt="Logo">
 </h1>
 Important: We moved to <a href="https://gitlab.com/asdoi/TimeTable">GitLab</a>! The repository on Github will remain as a mirror. Please do not submit pull requests or issues on GitHub.
 
@@ -38,9 +38,9 @@ You are welcome to contribute with issues, pull requests and ideas. And to contr
  - Rewrite class 'AlertDialogsHelper'
 
 ### Screenshots
-<img alt="1 screenshot" src="fastlane/metadata/android/en-US/images/phoneScreenshots/timetable_screenshot_1.png" width="31%" style="max-width:100%;"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="1 screenshot" src="fastlane/metadata/android/en-US/images/phoneScreenshots/timetable_screenshot_2.png" width="31%" style="max-width:100%;">
+<img alt="1 screenshot" src="fastlane/metadata/android/en-US/images/phoneScreenshots/timetable_screenshot_1.png" width="1440" style="max-width:100%;"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="1 screenshot" src="fastlane/metadata/android/en-US/images/phoneScreenshots/timetable_screenshot_2.png" width="1440" style="max-width:100%;">
 <br>
-<img alt="1 screenshot" src="fastlane/metadata/android/en-US/images/phoneScreenshots/timetable_screenshot_3.jpg" width="31%" style="max-width:100%;">&nbsp;&nbsp;&nbsp;&nbsp; <img alt="1 screenshot" src="fastlane/metadata/android/en-US/images/phoneScreenshots/timetable_screenshot_4.jpg" width="31%" style="max-width:100%;">&nbsp;&nbsp;&nbsp;&nbsp; <img alt="1 screenshot" src="fastlane/metadata/android/en-US/images/phoneScreenshots/timetable_screenshot_5.jpg" width="31%" style="max-width:100%;">
+<img alt="1 screenshot" src="fastlane/metadata/android/en-US/images/phoneScreenshots/timetable_screenshot_3.jpg" width="1080" style="max-width:100%;">&nbsp;&nbsp;&nbsp;&nbsp; <img alt="1 screenshot" src="fastlane/metadata/android/en-US/images/phoneScreenshots/timetable_screenshot_4.jpg" width="1080" style="max-width:100%;">&nbsp;&nbsp;&nbsp;&nbsp; <img alt="1 screenshot" src="fastlane/metadata/android/en-US/images/phoneScreenshots/timetable_screenshot_5.jpg" width="1080" style="max-width:100%;">
 
 *Made by <a href="https://github.com/smichel17">smichel17</a> from <a href="https://github.com/LibreShift/red-moon">LibreShift/red-moon</a>
 
