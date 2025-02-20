@@ -6,8 +6,8 @@ android {
     compileSdkVersion 29
     defaultConfig {
         applicationId "com.asdoi.timetable"
-        minSdkVersion 21
-        targetSdkVersion 29
+        minSdk 35
+        targetSdk 35
         versionCode 17
         versionName "1.7"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -26,6 +26,7 @@ android {
     }
     namespace 'com.ulan.timetable'
     buildToolsVersion '33.0.1'
+    ndkVersion '28.0.13004108'
 }
 
 dependencies {
